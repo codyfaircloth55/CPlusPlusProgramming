@@ -1,4 +1,4 @@
-<h2>CPlusPlusProgramming</h2>
+<h2>CS 210 Programming Languages</h2>
 
 <h3>Summary:</h3>
 <p>This project is designed to create an integrated application using both C++ and Python. This program is designed to read a file that contains a list of words and then performs 3 functions. The first function is counting the number of instances of each word in the input file. This information is then output to the user. The second function is counting the number of instances of a word given by user input in the file being read. The final function is to count the number of instances of each word in the input file then output that data to another file then use the data from the output file to create a histogram of the number of instances of each word as output to the user.</p>
